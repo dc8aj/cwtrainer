@@ -1,0 +1,53 @@
+{
+  "methods": [
+    {
+      "id": "e13",
+      "name": "E13",
+      "alphabet": "elv0aqst2cod5/ir9gxf4nu7h,=.bkp3myjwz168?-@:;!_+()'\"aouzhkvtes"
+    },
+    {
+      "id": "koch",
+      "name": "Koch",
+      "alphabet": "kmrsuaptlowi.njef0y,vg5/q9zh38b?427c1d6x"
+    },
+    {
+      "id": "lcwo",
+      "name": "LCWO",
+      "alphabet": "kmuresnaptlwi.jz=foy,vg5/q92h38b?47c1d60x-aouzhe+@:;!_()'\"kvts"
+    },
+    {
+      "id": "m32",
+      "name": "M32",
+      "alphabet": "teanois14rhdl25ucmw36?fypg79/bvkj80=xqz.,-aouzhe+@:;!_()'\"kvts"
+    },
+    {
+      "id": "adfgvx",
+      "name": "ADFGVX",
+      "alphabet": "adfgxvel0qst2co5/ir94nu7h,=.bkp3myjwz168?-@:;!_+()'\"aouzhkvtes"
+    },
+    {
+      "id": "abbreviations",
+      "name": "Abbreviations",
+      "source": "abbreviations.csv",
+      "type": "abbreviations"
+    },
+    {
+      "id": "q-groups",
+      "name": "Q-Groups",
+      "source": "q-groups.csv",
+      "type": "q-groups"
+    },
+    {
+      "id": "word_de",
+      "name": "Word_de",
+      "source": "word_de.csv",
+      "type": "word_de"
+    },
+    {
+      "id": "word_en",
+      "name": "Word_en",
+      "source": "word_en.csv",
+      "type": "word_en"
+    }
+  ]
+}
